@@ -1,10 +1,6 @@
 ## Welcome, my besto friendo.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidiogobennertz)](https://github.com/diogobennertz/github-readme-stats)
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-</div>
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogobennertz&show_icons=true&bg_color=00000000)
+
   ##
  
 <div> 
