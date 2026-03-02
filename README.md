@@ -17,5 +17,6 @@
 🤓 Done Delhpi and Firebird Course;
 🧌 Nerd on a daily basis;
 🏀 Hooper;
+##
 ![DioBrandoJjbaGIF (2)](https://github.com/user-attachments/assets/70283e5b-6139-4a13-ba1a-2134023ff18c)
 
