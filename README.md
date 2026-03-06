@@ -16,7 +16,6 @@
 </div>
   
 ## 
-🇧🇷
 🖖🏽 Diogo Bennertz, 22y;
 💼 Accountability;
 📘 Studying Java and Python;
