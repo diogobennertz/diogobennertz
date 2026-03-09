@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Hey+👋+What's+Up?;Welcome+to+my+GitHub+Profile;Java+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Welcome!;Diogo+Bennertz;IT+Student" />
 
 </div>
 
@@ -8,12 +8,11 @@
 
 <div align="center">
 
-### 👨‍💻 About Me
+### 👨🏽‍💻 About Me
 
-💻 Java developer em evolução  
-🗄️ Trabalhando com SQL Server  
-📚 Sempre aprendendo novas tecnologias  
-🚀 Construindo projetos e evoluindo todos os dias  
+💻 Learning Java;  
+🏀 Hooper; <br>
+🤓 Nerd.
 
 </div>
 
@@ -53,17 +52,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=diogobennertz&theme=dracula&border_radius=12"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=diogobennertz&show_icons=true&theme=dracula&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogobennertz&layout=compact&theme=dracula&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=diogobennertz&theme=dracula&border_radius=10"/>
 
 </div>
 
