@@ -13,17 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman Graph
+        uses: Platane/snk@v3
         with:
           github_user_name: diogobennertz
+          github_token: ${{ secrets.GH_PAT }}
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push Pacman Graph
         uses: crazy-max/ghaction-github-pages@v3
         with:
+          github_token: ${{ secrets.GH_PAT }}
           target_branch: output
           build_dir: dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}
