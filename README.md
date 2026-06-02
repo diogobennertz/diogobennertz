@@ -52,8 +52,6 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=diogobennertz&theme=dracula&border_radius=10"/>
-
 </div>
 
 <br>
